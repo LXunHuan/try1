@@ -1,5 +1,5 @@
 import java.utill
 
-class myTry {
+class myFirstTry {
 	private String name;
 }
