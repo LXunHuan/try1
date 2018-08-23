@@ -1,2 +1,2 @@
 # try1
-gitBubµÚÒ»¸ö³¢ÊÔ
+#try first in github
